@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Anton&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .bg { fill: #080808; }
+      .text-title { font-family: 'Anton', sans-serif; font-size: 140px; fill: #ffffff; }
+      .text-sub { font-family: 'JetBrains Mono', monospace; font-size: 24px; fill: #a1a1aa; letter-spacing: 4px; }
+      .accent { fill: #ed6b1c; }
+    </style>
+  </defs>
+  <rect class="bg" width="1400" height="560" />
+  
+  <!-- Abstract brutalist background grid -->
+  <line x1="0" y1="120" x2="1400" y2="120" stroke="#27272a" stroke-width="2" />
+  <line x1="0" y1="440" x2="1400" y2="440" stroke="#27272a" stroke-width="2" />
+  <line x1="400" y1="0" x2="400" y2="560" stroke="#27272a" stroke-width="2" />
+  
+  <rect class="accent" x="100" y="200" width="40" height="40" />
+  <text class="text-sub" x="170" y="230">SYSTEM NOMINAL // CHROME EXTENSION</text>
+  
+  <text class="text-title" x="95" y="370">SETUPRAI</text>
+  <text class="text-sub" x="100" y="415">THE FAULT IN OUR PROMPTS.</text>
+  
+  <text class="text-sub" x="40" y="515" style="font-size: 16px; fill: #52525b; letter-spacing: 2px;">[STATUS] AUTO-ENGINEERING PROTOCOL ENGAGED</text>
+  <text class="text-sub" x="1200" y="515" style="font-size: 16px; fill: #52525b; letter-spacing: 2px;">VERSION 1.0.0</text>
+</svg>

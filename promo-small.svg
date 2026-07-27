@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Anton&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .bg { fill: #080808; }
+      .text-title { font-family: 'Anton', sans-serif; font-size: 56px; fill: #ffffff; }
+      .text-sub { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #a1a1aa; letter-spacing: 2px; }
+      .accent { fill: #ed6b1c; }
+    </style>
+  </defs>
+  <rect class="bg" width="440" height="280" />
+  
+  <rect class="accent" x="40" y="40" width="20" height="20" />
+  <text class="text-sub" x="70" y="55">SYSTEM NOMINAL</text>
+  
+  <text class="text-title" x="40" y="140">SETUPRAI</text>
+  <text class="text-sub" x="42" y="180">THE FAULT IN</text>
+  <text class="text-sub" x="42" y="200">OUR PROMPTS.</text>
+  
+  <!-- Brutalist grid lines -->
+  <line x1="0" y1="240" x2="440" y2="240" stroke="#27272a" stroke-width="1" />
+  <line x1="220" y1="240" x2="220" y2="280" stroke="#27272a" stroke-width="1" />
+  <text class="text-sub" x="20" y="265" style="font-size: 10px; fill: #52525b;">[v1.0] EXTENSION</text>
+  <text class="text-sub" x="240" y="265" style="font-size: 10px; fill: #52525b;">> READY</text>
+</svg>
